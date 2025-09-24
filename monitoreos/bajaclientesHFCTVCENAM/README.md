@@ -1,3 +1,0 @@
-# bajaclientesHFCTVCENAM
-
-Proyecto bajaclientesHFCTVCENAM.

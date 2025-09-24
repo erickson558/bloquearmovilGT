@@ -1,3 +1,0 @@
-# addpoolCMAXESS
-
-Proyecto addpoolCMAXESS.

@@ -1,3 +1,0 @@
-# activarvolteprepostSV
-
-Proyecto activarvolteprepostSV.

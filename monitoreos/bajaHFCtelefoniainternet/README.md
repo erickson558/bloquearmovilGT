@@ -1,3 +1,0 @@
-# bajaHFCtelefoniainternet
-
-Proyecto bajaHFCtelefoniainternet.

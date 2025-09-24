@@ -1,3 +1,0 @@
-# bajaclientesDTH
-
-Proyecto bajaclientesDTH.

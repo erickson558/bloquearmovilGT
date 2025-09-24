@@ -1,3 +1,0 @@
-# bajaHFCInternet
-
-Proyecto bajaHFCInternet.

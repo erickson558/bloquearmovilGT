@@ -1,3 +1,0 @@
-# bajapaquetesDTH
-
-Proyecto bajapaquetesDTH.

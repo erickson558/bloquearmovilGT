@@ -1,3 +1,0 @@
-# alarmslogeda
-
-Proyecto alarmslogeda.

@@ -1,3 +1,0 @@
-# bloquearmovilGT
-
-Proyecto bloquearmovilGT.
